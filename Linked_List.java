@@ -1,6 +1,6 @@
 import java.util.LinkedList;
 
-public class AlphaLinkedList {
+public class Linked_List {
 
     public static void JavaCollectionFramework() {
         LinkedList<Integer> linkedList = new LinkedList<>();
