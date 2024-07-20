@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class AlphaHeap {
+public class Heap {
     public static class Heap {
         ArrayList<Integer> list = new ArrayList<>();
         boolean isEmpty;
