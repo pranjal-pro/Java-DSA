@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class AlphaStacks {
+public class Stacks {
     public static class ArrayStack {
         int arr[] = new int[10];
         int size = 0;
