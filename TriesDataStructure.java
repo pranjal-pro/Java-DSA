@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class AlphaTries {
+public class TriesDataStructure {
     public static class Tries {
         Tries[] child;
         boolean isEnd;
