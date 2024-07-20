@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class AlphaPriorityQueue {
+public class Priority_Queue {
     public static void main(String[] args) {
 
         PriorityQueue<Integer> score = new PriorityQueue<>(Comparator.reverseOrder());
