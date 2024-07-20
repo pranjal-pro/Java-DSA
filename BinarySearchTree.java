@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class AlphaBinarySearchTree {
+public class BinarySearchTree {
     public static class BST {
         public static class Node {
             int data;
