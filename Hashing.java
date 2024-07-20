@@ -2,7 +2,7 @@ import java.util.*;
 
 @SuppressWarnings("unchecked")
 
-public class AlphaHashing {
+public class Hashing {
     public static class HASHMAP<K, V> {
         public static class Node<K, V> {
             K key;
