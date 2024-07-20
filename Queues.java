@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class AlphaQueue {
+public class Queues {
     public static class ArrayQueue {
         int arr[], size, rear;
 
